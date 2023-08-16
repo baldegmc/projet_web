@@ -1,0 +1,21 @@
+
+a:link{
+    color: rgb(65, 42, 165);
+
+}
+a:hover{
+    color: red;
+}
+a:visited{
+    color: black;
+}
+.paragraph1{
+    padding: 70px;
+    border: 2px solid red;
+}
+
+.paragraph2{
+    margin: 70px;
+    border: 2px solid blue;
+
+}
